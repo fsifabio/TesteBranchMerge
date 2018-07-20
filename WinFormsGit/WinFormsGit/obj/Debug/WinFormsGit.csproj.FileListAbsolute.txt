@@ -1,0 +1,8 @@
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\bin\Debug\WinFormsGit.exe.config
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\bin\Debug\WinFormsGit.exe
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\bin\Debug\WinFormsGit.pdb
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.csprojResolveAssemblyReference.cache
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.Properties.Resources.resources
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.csproj.GenerateResource.Cache
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.exe
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.pdb
