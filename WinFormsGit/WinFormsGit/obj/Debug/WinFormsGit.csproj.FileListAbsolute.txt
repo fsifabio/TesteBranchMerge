@@ -6,3 +6,4 @@ C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.
 C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.csproj.GenerateResource.Cache
 C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.exe
 C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.pdb
+C:\_GIT\fsifabio\TesteBranchMerge\WinFormsGit\WinFormsGit\obj\Debug\WinFormsGit.Form1.resources
